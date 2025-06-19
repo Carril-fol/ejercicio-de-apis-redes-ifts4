@@ -1,0 +1,8 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+mysql==0.0.3
+mysql-connector-python==9.3.0
+mysqlclient==2.2.7
+requests==2.32.4
+urllib3==2.5.0
